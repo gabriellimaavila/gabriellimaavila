@@ -10,7 +10,7 @@ I am currently a Systems Analysis and Development student, passionate about soft
 
 ---
 
-###  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> Stacks que venho estudando e utilizando
+###  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> Technologies I’ve been studying and using
 
 <br>
 
