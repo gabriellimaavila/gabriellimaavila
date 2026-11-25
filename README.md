@@ -14,7 +14,7 @@ I am currently a Systems Analysis and Development student, passionate about soft
 
 <br>
 
-<div><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,prisma,postgresql,git,github,docker" />&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=insomnia"></div>
+<div><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,prisma,java,spring,postgresql,git,github,docker" />&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=insomnia"></div>
 
 
 
